@@ -2,3 +2,7 @@
 	path = public
 	url = git@github.com:tomashley/tomashley.github.io.git
 	branch = master
+[submodule "themes/slender"]
+	path = themes/slender
+	url = git@github.com:CrimsonRay/slender.git
+	branch = master
